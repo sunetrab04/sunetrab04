@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Sunetra. I'm currently pursuing my bachelor's degree in Biomedical Engineering at SRM University.
+
+## I'm actively looking for opportunities where I can grow, contribute and work on impactful projects. Always open to networking with like minded people :)
+
+## Outside of work, I'm either painting or getting lost in a good book -- because who needs a social life when you've got a good plot twist, right?
 
 <!--
 **sunetrab04/sunetrab04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
